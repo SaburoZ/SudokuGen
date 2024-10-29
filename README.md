@@ -46,8 +46,3 @@ sudoku_game/
 - Right-click on a cell to temporarily mark it.
 - The game will track your correct entries and errors.
 - A completion message will appear when you correctly fill in all cells.
-
-## Acknowledgements
-
-- Inspired by classic Sudoku puzzles.
-- Thanks to the open-source community for the resources and libraries used.
