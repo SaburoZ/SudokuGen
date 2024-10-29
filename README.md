@@ -20,7 +20,8 @@ A simple Sudoku game implemented in Python using Tkinter for the graphical user 
 
 ```
 sudoku_game/
-├── gui.py             # Main file for the GUI
+├── main.py            # Main file
+├── gui.py             # GUI
 ├── game_logic.py      # Logic for handling user interactions
 └── sudoku.py          # Sudoku grid generation and tracking
 ```
@@ -37,7 +38,7 @@ sudoku_game/
 
 3. Run the game:
    ```bash
-   python gui.py
+   python main.py
    ```
 
 ## How to Play
