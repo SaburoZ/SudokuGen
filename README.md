@@ -29,7 +29,7 @@ sudoku_game/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sudoku_game.git
+   git clone https://github.com/yourusername/sudokugen.git
    cd sudoku_game
    ```
 
